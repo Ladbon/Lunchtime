@@ -1,2 +1,5 @@
 # Lunchtime
-A gamejam project
+A gamejam project.
+WASD controls. 
+Don't get hit by the food thrown around. 
+Win by touching the devil.
